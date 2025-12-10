@@ -2,7 +2,7 @@
 
 Um dashboard completo para analisar músicas, artistas, álbuns e métricas musicais usando **Streamlit, Altair, Plotly, pandas e Python.** Com visual inspirado no Spotify e visualizações modernas.
 
-!["Preview do Dashboard"](Preview.png)
+!["Preview do Dashboard"](https://spotifydashboard-bubzqn3groy9hhxrfvdadh.streamlit.app/)]
 
 ### 🧩 Funcionalidades
 - 🔍 Filtros interativos por artista, gênero e ano

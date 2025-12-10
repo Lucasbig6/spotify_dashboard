@@ -74,7 +74,7 @@ if genres:
 # ================================
 # TÍTULO
 # ================================
-st.image("assets/Header.png", use_container_width=True)
+st.image("Header.png", use_container_width=True)
 
 data_atualizacao = datetime.now().strftime("%d/%m/%Y %H:%M")
 

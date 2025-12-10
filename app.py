@@ -19,7 +19,7 @@ SPOTIFY_GREEN = "#1DB954"
 # ================================
 # CARREGAR DADOS
 # ================================
-csv_path = os.path.join("data", "spotify_data_clean.csv")
+csv_path = os.path.join("spotify_data_clean.csv")
 
 df = pd.read_csv(csv_path)
 
